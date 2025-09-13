@@ -1,0 +1,99 @@
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\bin\Debug\net9.0\appsettings.json
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\bin\Debug\net9.0\Projeto Aula.staticwebassets.runtime.json
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\bin\Debug\net9.0\Projeto Aula.staticwebassets.endpoints.json
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\bin\Debug\net9.0\Projeto Aula.exe
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\bin\Debug\net9.0\Projeto Aula.deps.json
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\bin\Debug\net9.0\Projeto Aula.runtimeconfig.json
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\bin\Debug\net9.0\Projeto Aula.dll
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\bin\Debug\net9.0\Projeto Aula.pdb
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\Projeto Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\Projeto Aula.AssemblyInfoInputs.cache
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\Projeto Aula.AssemblyInfo.cs
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\Projeto Aula.csproj.CoreCompileInputs.cache
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\Projeto Aula.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\Projeto Aula.RazorAssemblyInfo.cache
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\Projeto Aula.RazorAssemblyInfo.cs
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\Projeto Aula.sourcelink.json
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\scopedcss\bundle\Projeto Aula.styles.css
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\scopedcss\projectbundle\Projeto Aula.bundle.scp.css
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\5cgyyiyrea-b9sayid5wm.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\rdx6zlxofy-61n19gt1b8.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\t4at9s54nt-xtxxf3hu2r.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\nt6usoeqjk-bqjiyaj88i.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\6w07yb1udx-c2jlpeoesf.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\42za6qp4nd-erw9l3u2r3.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\o8ug7l2oqd-aexeepp0ev.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\smb6rjgcfv-d7shbmvgxk.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\2hs2co7zru-ausgxo2sd3.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\xgilqlz5vu-k8d9w2qqmf.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\b23ln6grwq-cosvhxvwiu.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\6w7jpwmmhk-ub07r2b239.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\n18ytcv3hx-fvhpjtyr6v.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\7vdwwv2769-b7pk76d08c.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\wsnkwc3mh4-fsbi9cje9m.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\u4eor2my4i-rzd6atqjts.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\dpgqr9u5cr-ee0r1s7dh0.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\xrdp794fzx-dxx9fxp4il.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\gzcqkmy7bg-jd9uben2k1.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\b8rf3gq3ff-khv3u5hwcm.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\0e55th4bo7-r4e9w2rdcm.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\69tuib27pw-lcd1t2u6c8.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\z64iah8kjs-c2oey78nd0.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\1ghqa0n0qc-tdbxkamptv.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\47t26yse0w-j5mq2jizvt.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\qt0af31bp6-06098lyss8.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\eniu9tlkpy-nvvlpmu67g.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\axyitri2ba-s35ty4nyc5.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\urxy2v1fsf-pj5nd1wqec.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\uvctdh6l1v-46ein0sx1k.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\lmijdbz12t-v0zj4ognzu.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\gmq7but9e7-37tfw0ft22.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\7n5vfj9fwa-hrwsygsryq.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\lpjdbd6p03-pk9g2wxc8p.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\q7ap84uip9-ft3s53vfgj.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\wfb0vp8y95-6cfz1n2cew.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\fdd60a2qee-6pdc2jztkx.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\jjdf4lj0ij-493y06b0oq.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\v09vwmoxau-iovd86k7lj.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\5qurv5hn9x-vr1egmr9el.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\ol0h1187xr-kbrnm935zg.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\tos7j886nt-jj8uyg4cgr.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\xqv3jytimw-y7v9cxd14o.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\0uci7v78bc-notf2xhcfb.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\wwhwlbla6r-h1s4sie4z3.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\8l3254ume2-63fj8s7r0e.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\k6qlx63zkv-0j3bgjxly4.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\wwr833oanl-47otxtyo56.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\mddbnknty3-4v8eqarkd7.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\oo76tj6ltg-356vix0kms.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\5ltlxea66e-83jwlth58m.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\xxoko2o6un-mrlpezrjn3.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\3nti46ipyk-lzl9nlhx6b.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\ua0a8zkprj-ag7o75518u.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\e2ymmot2gg-x0q3zqp4vz.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\zkmuh9e6r7-0i3buxo5is.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\b6uj68evyl-o1o13a6vjx.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\um8hi30fe7-ttgo8qnofa.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\fxsqsh19zl-2z0ns9nrw6.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\r6tp5mtdod-muycvpuwrr.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\hcihpwe0vz-87fc7y1x7t.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\h6r4d05qw3-mlv21k5csn.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\zvpbfr67af-josotclt96.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\compressed\4ok1q72uyv-josotclt96.gz
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\staticwebassets\msbuild.Projeto Aula.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\staticwebassets\msbuild.Projeto Aula.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto Aula.props
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto Aula.props
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto Aula.props
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\Projeto Aula.dll
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\refint\Projeto Aula.dll
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\Projeto Aula.pdb
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\Projeto Aula.genruntimeconfig.cache
+C:\Users\gugab\OneDrive\Documentos\GitHub\Html\Projeto Aula\obj\Debug\net9.0\ref\Projeto Aula.dll
